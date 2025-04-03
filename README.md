@@ -17,6 +17,7 @@ Disk Space Analyzer is a **Bash script** that helps monitor disk usage, analyze 
 git clone https://github.com/hrishikesh-thakare/disk-space-analyzer.git
 cd disk-space-analyzer
 
+### 2. Execution 
 # Make executable if permissions are lost during transfer
 chmod +x disk-analyzer.sh
 
