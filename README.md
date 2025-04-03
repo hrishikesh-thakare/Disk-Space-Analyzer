@@ -23,5 +23,3 @@ chmod +x disk-analyzer.sh
 # Run normally
 ./disk-analyzer.sh
 
-# Or run with visual paging
-./disk-analyzer.sh | less
