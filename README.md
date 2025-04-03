@@ -23,3 +23,6 @@ chmod +x disk-analyzer.sh
 # Run normally
 ./disk-analyzer.sh
 
+#To customize the script settings, open it with Nano:
+nano disk-analyzer.sh
+
