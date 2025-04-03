@@ -1,5 +1,4 @@
 # Disk Space Analyzer  
-**Version:** 2.0  
 
 ## Overview  
 Disk Space Analyzer is a **Bash script** that helps monitor disk usage, analyze large folders, and clean temporary files. It provides an interactive menu for better disk space management.  
@@ -15,5 +14,5 @@ Disk Space Analyzer is a **Bash script** that helps monitor disk usage, analyze 
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/disk-space-analyzer.git
+git clone https://github.com/hrishikesh-thakare/disk-space-analyzer.git
 cd disk-space-analyzer
